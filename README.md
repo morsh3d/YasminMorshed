@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snowmoss10
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning to code on FreeCodeCamp
-- 💞️ I’m looking to collaborate on Open-Source Projects in the future
+- 💞️ I’m looking to collaborate on Open-Source Projects
 - 📫 You can message me on Twitter
 
 <!---
