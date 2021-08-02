@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @snowmoss10
 - 👀 I’m interested in coding and I've studied pharmacy
 - 🌱 I’m currently learning to code on FreeCodeCamp
-- 💞️ I’m looking to collaborate on Open-Source Projects
+- 💻 I’m looking to collaborate on Open-Source Projects
 - 🐍 I'm a volunteer EuroPython
 - 📫 You can message me on Twitter
 
