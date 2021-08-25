@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @snowmoss10
-- 👀 I’m interested in coding
 - 🌱 I’m a student at the Digital Skills Bootcamp
 - 💻 I’m looking to collaborate on Open-Source Projects
 - 🐍 I'm an organiser @EuroPython
