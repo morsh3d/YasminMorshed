@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snowmoss10
-- 🌱 I’m a student @ the Digital Skills Bootcamp
+- 🌱 I’m a student @The Digital Skills Bootcamp
 - 🐍 I'm an organiser @EuroPython
 - 💻 I’m looking to collaborate on Open-Source Projects
 - 📫 You can message me on Twitter
