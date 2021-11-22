@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmin</h1>
 <h3 align="center">An aspiring developer from from the UK</h3>
 
-<p align="left"> <a href="https://twitter.com/snowmoss10" target="blank"><img src="https://img.shields.io/twitter/follow/snowmoss10?logo=twitter&style=for-the-badge" alt="snowmoss10" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 🤝 I’m looking for help with **Open Source Projects**
