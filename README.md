@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking to help with **Open Source Projects**
 
-- 💬 Ask me about **Python**
+- 💬 I'm a volunteer organiser of the **EuroPython Conference**
 
 - ⚡ Fun fact **I like retro video games**
 
