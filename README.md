@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @snowmoss10
-- 🌱 I’m a student @The Digital Skills Bootcamp
-- 🐍 I'm an organiser @EuroPython
-- 💻 I’m looking to collaborate on Open-Source Projects
-- 📫 You can message me on Twitter
+<h1 align="center">Hi 👋, I'm Yasmin</h1>
+<h3 align="center">An aspiring developer from from the UK</h3>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsnowmoss10&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="left"> <a href="https://twitter.com/snowmoss10" target="blank"><img src="https://img.shields.io/twitter/follow/snowmoss10?logo=twitter&style=for-the-badge" alt="snowmoss10" /></a> </p>
 
-<!---
-snowmoss10/snowmoss10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **JavaScript**
+
+- 🤝 I’m looking for help with **Open Source Projects**
+
+- 💬 Ask me about **Python**
+
+- ⚡ Fun fact **I like retro video games**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/snowmoss10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snowmoss10" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
