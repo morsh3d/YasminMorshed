@@ -7,7 +7,7 @@
 
 - 💬 I'm a volunteer organiser of the **EuroPython Conference**
 
-- ⚡ Fun fact **I like retro video games**
+- ⚡ Fun fact: **I like retro video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
