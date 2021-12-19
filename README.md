@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasmin</h1>
-<h3 align="center">An aspiring software developer from from the UK</h3>
+<h3 align="center">An aspiring software developer from the UK</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
