@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yasmin</h1>
-<h3 align="center">An aspiring software developer from the UK</h3>
+<h3 align="center">A trainee software engineer</h3>
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **AWS and JS**
 
 - 🤝 I’m looking to help with **Open Source Projects**
 
-- 💬 I'm a volunteer organiser of the **EuroPython Conference**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
