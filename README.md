@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasmin</h1>
 <h3 align="center">A trainee software engineer</h3>
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner and cyber security**
+- 🌱 I’m currently learning **AWS Cloud Practitioner, JavaScript and cyber security**
 
 - 🤝 I’m looking to help with **Open Source Projects**
 
